@@ -7,7 +7,7 @@ And then finally, Does the interaction of these variables matter? Does it matter
 
 In answering this question, past studies have generally analyzed smaller samples of about 600 or 1,000. Such studies have conducted experiments with their own survey data, which typically feature more direct measurements of Court legitimacy and attitudes for the court. The goal of this paper is to do an exploratory analysis to see what kind of findings I might get with a much larger sample. The dataset for this paper comes from the 2018 Cooperative Congressional Election Survey (CCES). In accounting for legitimacy of the Court, the best question that comes close asked respondents to rate how strongly they approve or disapprove of the job the Supreme Court is doing. This, of course, is the main variable of interest and as such is the dependent variable in the model. 
 
-![](https://github.com/JohnM-Eaton/Timeline-of-FireGinaCarano/blob/main/Figure1_updated.svg)
+![](https://github.com/JohnM-Eaton/Approval_of_SC/blob/main/Figure%201.png)
 
 Figure 1 shows results from the first model without the interaction variable for respondent ideology and Court ideology. Because the dependent variable is a four-level factor variable denoting job approval for the Supreme Court, the model ran is an ordered logistic regression model. The results from the first model indicate that approval for the other federal institutions (Congress and the Presidency) positively and significantly impact the likelihood of respondents expressing job approval for the Supreme Court. What is more, these variables are suggested to have the most impact in the model, which aligns with Gibson and Nelson’s (2015) argument regarding support for other institutions and legitimacy. 
 
